@@ -196,9 +196,55 @@ ________________________________________________________________________________
 - **[Slime (GitHub) - SERVER](https://github.com/mcstrugs/Slimes/releases)**
 - **[SlimeChunkF3 (CurseForge - SERVER](https://www.curseforge.com/minecraft/mc-mods/slimechunkf3/files)**
 - **[SlimyFloor (CurseForge - SERVER](https://www.curseforge.com/minecraft/mc-mods/slimyfloor/files)**
-
-
-
+_________________________________________________________________________________________________________________________________________________________________________________
+# ![](https://i.namemc-static.com/9b2872d4cd0bfe25.png) laputa.tekkit.de - Server Mods
+- Alternate Current
+- BedrockWaters
+- BetterSleeping Revived
+- BFAPI
+- BlueMap
+- Carpet Extra
+- Carpet TIS Addition
+- Carpet Gamerules
+- Chunky
+- Client Brand
+- Cloth Config
+- Collective
+- Connected Doors
+- Couplings
+- Compass Ribbon
+- Crowmap
+- Cycle Paintings
+- DimensionalThreading
+- Dynmap
+- EssentialsAddons
+- Fabric API
+- Carpet
+- FabricHealthDisplay
+- FerriteCore
+- Gastrolimital Bypass
+- Jank Addons
+- Krypton
+- Lapis Reserve
+- LazyDFU
+- Lithium
+- MAmbience
+- Mods Command
+- Not Enough Crashes
+- Phosphor
+- Recipe Cache
+- Replant Swamp Trees
+- Semblance
+- Server Tick
+- Show Me What You Got
+- ShulkerBoxTooltip
+- Slime
+- SlimeChunkF3
+- SlimyFloor
+- Sound Physics Remastered
+- Villager Death Messages
+- Xaero's Minimap
+- Xaero's World Map
 
 
 
