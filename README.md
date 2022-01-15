@@ -1,6 +1,6 @@
 [](url)
 
-# S-Craft    Modpack for Fabric 1.18.1
+# S-Craft    for Fabric 1.18.1
 _________________________________________________________________________________________________________________________________________________________________________________
 # Core and APIs
 - **[Fabric Installer (Main Page)](https://fabricmc.net/use/installer/)**
